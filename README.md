@@ -27,8 +27,11 @@ Aunque todavía estoy trabajando en construir mi portafolio, aquí te dejo un vi
 
 Me encantaría conectarme con otras personas interesadas en la programación y el desarrollo web. Aquí están mis redes sociales y cómo puedes contactarme:
 
-- **GitHub:*@Adrimm35* (https://github.com/Adrimm35).
-- **LinkedIn:** Adrian Mayor Martín(https://www.linkedin.com/in/adrian-mayor-martín-32266a1b1/)
-- **Correo Electrónico:** adrimayorm96@gmail.com
+GitHub:*@Adrimm35* (https://github.com/Adrimm35).
+Correo Electrónico:** adri.interamplify@gmail.com.
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Adrimm35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adrian-mayor-martín-32266a1b1/)
+ 
+  
 
 🙏¡Gracias por tomarte el tiempo de conocerme un poco! Estoy emocionado por lo que el futuro depara en mi camino como desarrollador.

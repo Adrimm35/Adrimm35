@@ -10,7 +10,7 @@ Mi nombre real es Adrián Mayor Martín, recientemente sumergido en el vasto y f
 
 - Actualmente, estoy aprendiendo programación a través del grado superior y cursos en linea. El grado superior es realizado en jobbie school y cursos en linea como udemy, tambien realice aprendizaje en la pagina web codédex.
 
-## Tecnologías y Lenguajes que Estoy Explorando
+## 🔧Tecnologías y Lenguajes que Estoy Explorando
 
 Aunque estoy en las etapas iniciales de mi aprendizaje, aquí hay algunas áreas y tecnologías que he comenzado a explorar:
 
